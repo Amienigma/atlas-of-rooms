@@ -1,0 +1,2066 @@
+[
+  {
+    "room": "Neurodevelopmental",
+    "name": "Autism spectrum disorder",
+    "code": "F84.0",
+    "summary": "Differences in social communication and interaction, with restricted or repetitive patterns of behavior and interests, present from early development.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurodevelopmental",
+    "name": "Attention-deficit/hyperactivity disorder",
+    "code": "F90.x",
+    "summary": "A persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning across settings.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurodevelopmental",
+    "name": "Specific learning disorder",
+    "code": "F81.x",
+    "summary": "Ongoing difficulty learning reading, writing or math skills that is well below what is expected for age.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurodevelopmental",
+    "name": "Tourette’s disorder",
+    "code": "F95.2",
+    "summary": "Multiple motor tics and at least one vocal tic, beginning in childhood and lasting over a year.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurodevelopmental",
+    "name": "Intellectual disability",
+    "code": "F70–F79",
+    "summary": "Limits in reasoning, learning and everyday adaptive skills that begin during development.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Schizophrenia spectrum and psychotic",
+    "name": "Schizophrenia",
+    "code": "F20.9",
+    "summary": "A long-lasting disorder involving some mix of delusions, hallucinations, disorganized speech or behavior, and reduced expression or motivation.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Schizophrenia spectrum and psychotic",
+    "name": "Schizoaffective disorder",
+    "code": "F25.x",
+    "summary": "Psychotic symptoms occurring alongside a major mood episode, with psychosis also present without mood symptoms at times.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Schizophrenia spectrum and psychotic",
+    "name": "Schizophreniform disorder",
+    "code": "F20.81",
+    "summary": "Schizophrenia-like symptoms lasting between one and six months.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Schizophrenia spectrum and psychotic",
+    "name": "Brief psychotic disorder",
+    "code": "F23",
+    "summary": "A sudden psychotic episode lasting at least a day but under a month, followed by return to prior functioning.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Schizophrenia spectrum and psychotic",
+    "name": "Delusional disorder",
+    "code": "F22",
+    "summary": "Fixed false beliefs lasting a month or more without the wider picture of schizophrenia.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Bipolar and related",
+    "name": "Bipolar I disorder",
+    "code": "F31.x",
+    "summary": "Defined by at least one manic episode; depressive episodes are common but not required.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Bipolar and related",
+    "name": "Bipolar II disorder",
+    "code": "F31.81",
+    "summary": "At least one hypomanic and one major depressive episode, without a full manic episode.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Bipolar and related",
+    "name": "Cyclothymic disorder",
+    "code": "F34.0",
+    "summary": "Two or more years of numerous mood swings that fall short of full manic or depressive episodes.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Depressive",
+    "name": "Major depressive disorder",
+    "code": "F32.x / F33.x",
+    "summary": "Episodes of low mood or loss of interest, with changes in sleep, energy, appetite, concentration or self-worth.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Depressive",
+    "name": "Persistent depressive disorder",
+    "code": "F34.1",
+    "summary": "A depressed mood lasting most days for two years or longer.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Depressive",
+    "name": "Premenstrual dysphoric disorder",
+    "code": "N94.3",
+    "summary": "Marked mood and physical symptoms that arise in the premenstrual phase and ease soon after bleeding starts.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Depressive",
+    "name": "Disruptive mood dysregulation disorder",
+    "code": "F34.81",
+    "summary": "Frequent severe temper outbursts and persistently irritable mood in children and adolescents.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Anxiety",
+    "name": "Generalized anxiety disorder",
+    "code": "F41.1",
+    "summary": "Excessive, hard-to-control worry about many things over at least six months.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Anxiety",
+    "name": "Panic disorder",
+    "code": "F41.0",
+    "summary": "Recurrent unexpected panic attacks followed by ongoing worry about more attacks or their consequences.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Anxiety",
+    "name": "Social anxiety disorder",
+    "code": "F40.10",
+    "summary": "Intense fear of social situations where others might judge you.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Anxiety",
+    "name": "Agoraphobia",
+    "code": "F40.00",
+    "summary": "Fear of places or situations where escape or help might feel unavailable.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Anxiety",
+    "name": "Specific phobia",
+    "code": "F40.2x",
+    "summary": "Marked fear of a particular object or situation, out of proportion to the actual danger.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Anxiety",
+    "name": "Separation anxiety disorder",
+    "code": "F93.0",
+    "summary": "Excessive fear about separation from attachment figures, beyond what suits the person’s age.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Anxiety",
+    "name": "Selective mutism",
+    "code": "F94.0",
+    "summary": "Consistent failure to speak in particular social situations despite speaking elsewhere.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Obsessive-compulsive and related",
+    "name": "Obsessive-compulsive disorder",
+    "code": "F42.2",
+    "summary": "Unwanted intrusive thoughts and repetitive behaviors or mental acts done to relieve distress.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Obsessive-compulsive and related",
+    "name": "Body dysmorphic disorder",
+    "code": "F45.22",
+    "summary": "Preoccupation with perceived flaws in appearance that others barely notice.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Obsessive-compulsive and related",
+    "name": "Hoarding disorder",
+    "code": "F42.3",
+    "summary": "Persistent difficulty discarding possessions, causing clutter that disrupts living spaces.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Obsessive-compulsive and related",
+    "name": "Trichotillomania",
+    "code": "F63.3",
+    "summary": "Recurrent hair pulling that leads to hair loss, despite attempts to stop.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Obsessive-compulsive and related",
+    "name": "Excoriation disorder",
+    "code": "F42.4",
+    "summary": "Recurrent skin picking that causes lesions, despite attempts to stop.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Trauma and stressor-related",
+    "name": "Posttraumatic stress disorder",
+    "code": "F43.10",
+    "summary": "Lasting intrusion, avoidance, mood changes and heightened arousal after exposure to a traumatic event.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Trauma and stressor-related",
+    "name": "Acute stress disorder",
+    "code": "F43.0",
+    "summary": "Trauma-related symptoms that appear within the first month after the event.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Trauma and stressor-related",
+    "name": "Adjustment disorders",
+    "code": "F43.2x",
+    "summary": "Emotional or behavioral symptoms in response to an identifiable stressor, out of proportion or impairing.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Trauma and stressor-related",
+    "name": "Reactive attachment disorder",
+    "code": "F94.1",
+    "summary": "A pattern of emotionally withdrawn behavior toward caregivers, linked to severe neglect in early life.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Trauma and stressor-related",
+    "name": "Prolonged grief disorder",
+    "code": "F43.81",
+    "summary": "Intense, persistent yearning or preoccupation after a death, lasting well beyond cultural norms.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Dissociative",
+    "name": "Dissociative identity disorder",
+    "code": "F44.81",
+    "summary": "Disruption of identity into two or more distinct states, with gaps in memory.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Dissociative",
+    "name": "Dissociative amnesia",
+    "code": "F44.0",
+    "summary": "Inability to recall important personal information, beyond ordinary forgetting.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Dissociative",
+    "name": "Depersonalization/derealization disorder",
+    "code": "F48.1",
+    "summary": "Persistent feelings of detachment from oneself or from the surroundings, with reality testing intact.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Somatic symptom",
+    "name": "Somatic symptom disorder",
+    "code": "F45.1",
+    "summary": "Distressing physical symptoms paired with excessive thoughts, feelings or behaviors about them.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Somatic symptom",
+    "name": "Illness anxiety disorder",
+    "code": "F45.21",
+    "summary": "Preoccupation with having or developing a serious illness, with few or mild symptoms.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Somatic symptom",
+    "name": "Functional neurological symptom disorder",
+    "code": "F44.4x",
+    "summary": "Neurological-seeming symptoms, such as weakness or seizures, that don’t fit recognized neurological disease.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Feeding and eating",
+    "name": "Anorexia nervosa",
+    "code": "F50.0x",
+    "summary": "Restricted intake, intense fear of weight gain, and a disturbed experience of body weight or shape.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Feeding and eating",
+    "name": "Bulimia nervosa",
+    "code": "F50.2",
+    "summary": "Recurrent binge eating followed by compensatory behaviors, with self-worth tied to shape and weight.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Feeding and eating",
+    "name": "Binge-eating disorder",
+    "code": "F50.81",
+    "summary": "Recurrent episodes of eating large amounts with a sense of lost control, without regular compensation.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Feeding and eating",
+    "name": "Avoidant/restrictive food intake disorder",
+    "code": "F50.82",
+    "summary": "Limited eating driven by sensory aversion, low interest or fear of consequences, not body image.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sleep-wake",
+    "name": "Insomnia disorder",
+    "code": "F51.0x",
+    "summary": "Ongoing trouble falling or staying asleep that causes daytime distress or impairment.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sleep-wake",
+    "name": "Narcolepsy",
+    "code": "G47.4x",
+    "summary": "Recurrent irrepressible sleep episodes, sometimes with sudden loss of muscle tone.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sleep-wake",
+    "name": "Nightmare disorder",
+    "code": "F51.5",
+    "summary": "Repeated, vivid, distressing dreams that wake the person with clear recall.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Gender dysphoria",
+    "name": "Gender dysphoria",
+    "code": "F64.x",
+    "summary": "Marked distress from a mismatch between experienced gender and gender assigned at birth.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Disruptive, impulse-control and conduct",
+    "name": "Oppositional defiant disorder",
+    "code": "F91.3",
+    "summary": "A recurring pattern of angry mood, argumentative behavior or vindictiveness, mainly toward authority figures.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Disruptive, impulse-control and conduct",
+    "name": "Conduct disorder",
+    "code": "F91.x",
+    "summary": "A repeated pattern of violating others’ rights or major age-appropriate rules.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Disruptive, impulse-control and conduct",
+    "name": "Intermittent explosive disorder",
+    "code": "F63.81",
+    "summary": "Recurrent impulsive outbursts of aggression that are out of proportion to the trigger.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Disruptive, impulse-control and conduct",
+    "name": "Kleptomania",
+    "code": "F63.2",
+    "summary": "Recurrent failure to resist urges to steal items not needed for use or value.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Substance-related and addictive",
+    "name": "Alcohol use disorder",
+    "code": "F10.x",
+    "summary": "A problematic pattern of alcohol use causing impairment or distress, with levels from mild to severe.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Substance-related and addictive",
+    "name": "Opioid use disorder",
+    "code": "F11.x",
+    "summary": "A problematic pattern of opioid use causing impairment or distress, with levels from mild to severe.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Substance-related and addictive",
+    "name": "Gambling disorder",
+    "code": "F63.0",
+    "summary": "Persistent, recurrent gambling behavior that causes significant problems.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurocognitive",
+    "name": "Delirium",
+    "code": "F05",
+    "summary": "An acute disturbance in attention and awareness that develops over hours to days and fluctuates.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurocognitive",
+    "name": "Major neurocognitive disorder",
+    "code": "F02.x",
+    "summary": "A significant decline in one or more areas of thinking that interferes with independence.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Personality",
+    "name": "Paranoid personality disorder",
+    "code": "F60.0",
+    "summary": "A pervasive distrust and suspicion of others’ motives.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Personality",
+    "name": "Schizoid personality disorder",
+    "code": "F60.1",
+    "summary": "A pervasive detachment from relationships and a narrow range of expressed emotion.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Personality",
+    "name": "Schizotypal personality disorder",
+    "code": "F21",
+    "summary": "Discomfort with close relationships, odd beliefs or perceptions, and eccentric behavior.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Personality",
+    "name": "Antisocial personality disorder",
+    "code": "F60.2",
+    "summary": "A pervasive pattern of disregard for and violation of others’ rights, beginning by age fifteen.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Personality",
+    "name": "Borderline personality disorder",
+    "code": "F60.3",
+    "summary": "Instability in relationships, self-image and emotion, with marked impulsivity.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Personality",
+    "name": "Histrionic personality disorder",
+    "code": "F60.4",
+    "summary": "Excessive emotionality and attention seeking.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Personality",
+    "name": "Narcissistic personality disorder",
+    "code": "F60.81",
+    "summary": "A pattern of grandiosity, need for admiration and low empathy.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Personality",
+    "name": "Avoidant personality disorder",
+    "code": "F60.6",
+    "summary": "Social inhibition, feelings of inadequacy and sensitivity to negative evaluation.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Personality",
+    "name": "Dependent personality disorder",
+    "code": "F60.7",
+    "summary": "An excessive need to be taken care of, leading to submissive and clinging behavior.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Personality",
+    "name": "Obsessive-compulsive personality disorder",
+    "code": "F60.5",
+    "summary": "A preoccupation with orderliness, perfectionism and control at the expense of flexibility.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurodevelopmental",
+    "name": "Global developmental delay",
+    "code": "F88",
+    "summary": "Delayed milestones in several areas of development in a child too young for standardized testing.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurodevelopmental",
+    "name": "Language disorder",
+    "code": "F80.2",
+    "summary": "Ongoing difficulty understanding or producing language that is below age expectations.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurodevelopmental",
+    "name": "Speech sound disorder",
+    "code": "F80.0",
+    "summary": "Persistent trouble producing speech sounds clearly enough to be understood.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurodevelopmental",
+    "name": "Childhood-onset fluency disorder",
+    "code": "F80.81",
+    "summary": "Stuttering: disruptions in the normal flow and timing of speech, starting in early development.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurodevelopmental",
+    "name": "Social (pragmatic) communication disorder",
+    "code": "F80.82",
+    "summary": "Difficulty with the social use of language and nonverbal communication, without the restricted patterns of autism.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurodevelopmental",
+    "name": "Developmental coordination disorder",
+    "code": "F82",
+    "summary": "Motor skills well below what’s expected for age, affecting daily activities.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurodevelopmental",
+    "name": "Stereotypic movement disorder",
+    "code": "F98.4",
+    "summary": "Repetitive, seemingly driven movements such as rocking or hand flapping that interfere with activities.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurodevelopmental",
+    "name": "Persistent motor or vocal tic disorder",
+    "code": "F95.1",
+    "summary": "Motor or vocal tics (not both) lasting more than a year.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Schizophrenia spectrum and psychotic",
+    "name": "Catatonia associated with another mental disorder",
+    "code": "F06.1",
+    "summary": "A cluster of marked motor and behavioral signs such as stupor, mutism or posturing, tied to another condition.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Depressive",
+    "name": "Unspecified depressive disorder",
+    "code": "F32.A",
+    "summary": "Depressive symptoms causing distress that don’t fit a specific depressive diagnosis.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Anxiety",
+    "name": "Unspecified anxiety disorder",
+    "code": "F41.9",
+    "summary": "Anxiety symptoms causing distress that don’t fit a specific anxiety diagnosis.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Trauma and stressor-related",
+    "name": "Disinhibited social engagement disorder",
+    "code": "F94.2",
+    "summary": "Overly familiar behavior toward unfamiliar adults, linked to early social neglect.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Somatic symptom",
+    "name": "Psychological factors affecting other medical conditions",
+    "code": "F54",
+    "summary": "Psychological or behavioral factors that worsen the course or treatment of a medical condition.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Somatic symptom",
+    "name": "Factitious disorder imposed on self",
+    "code": "F68.10",
+    "summary": "Falsifying or inducing illness signs in oneself, without an obvious external reward.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Feeding and eating",
+    "name": "Pica",
+    "code": "F50.89",
+    "summary": "Ongoing eating of non-food substances in a way that’s inappropriate for development.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Feeding and eating",
+    "name": "Rumination disorder",
+    "code": "F98.21",
+    "summary": "Repeated regurgitation of food, which may be rechewed, reswallowed or spat out.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Elimination",
+    "name": "Enuresis",
+    "code": "F98.0",
+    "summary": "Repeated passing of urine in bed or clothes in a child past the age of expected control.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Elimination",
+    "name": "Encopresis",
+    "code": "F98.1",
+    "summary": "Repeated passing of stool in inappropriate places in a child past the age of expected control.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sleep-wake",
+    "name": "Obstructive sleep apnea hypopnea",
+    "code": "G47.33",
+    "summary": "Repeated airway blockage during sleep that disrupts breathing and rest.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sleep-wake",
+    "name": "Restless legs syndrome",
+    "code": "G25.81",
+    "summary": "An urge to move the legs, usually at rest or in the evening, relieved by movement.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sleep-wake",
+    "name": "Non-REM sleep arousal disorder, sleepwalking type",
+    "code": "F51.3",
+    "summary": "Repeated episodes of rising and walking during sleep with limited awareness.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sleep-wake",
+    "name": "Non-REM sleep arousal disorder, sleep terror type",
+    "code": "F51.4",
+    "summary": "Abrupt arousals from sleep with intense fear and little recall.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sleep-wake",
+    "name": "REM sleep behavior disorder",
+    "code": "G47.52",
+    "summary": "Acting out dreams through movement or vocalization during REM sleep.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sexual dysfunctions",
+    "name": "Erectile disorder",
+    "code": "F52.21",
+    "summary": "Persistent difficulty getting or keeping an erection sufficient for sexual activity.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sexual dysfunctions",
+    "name": "Premature (early) ejaculation",
+    "code": "F52.4",
+    "summary": "Ejaculation that happens sooner than wanted, causing distress.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sexual dysfunctions",
+    "name": "Delayed ejaculation",
+    "code": "F52.32",
+    "summary": "Marked delay or inability to ejaculate despite adequate stimulation.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sexual dysfunctions",
+    "name": "Female orgasmic disorder",
+    "code": "F52.31",
+    "summary": "Marked delay, rarity or absence of orgasm, or much reduced intensity.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sexual dysfunctions",
+    "name": "Female sexual interest/arousal disorder",
+    "code": "F52.22",
+    "summary": "Reduced or absent sexual interest or arousal that causes distress.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Sexual dysfunctions",
+    "name": "Genito-pelvic pain/penetration disorder",
+    "code": "F52.6",
+    "summary": "Persistent pain, fear or tension tied to vaginal penetration.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Disruptive, impulse-control and conduct",
+    "name": "Pyromania",
+    "code": "F63.1",
+    "summary": "Repeated deliberate fire setting driven by tension and fascination rather than gain or anger.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Substance-related and addictive",
+    "name": "Cannabis use disorder",
+    "code": "F12.x",
+    "summary": "A problematic pattern of cannabis use causing impairment or distress, graded by severity.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Substance-related and addictive",
+    "name": "Stimulant use disorder",
+    "code": "F14.x / F15.x",
+    "summary": "A problematic pattern of cocaine or amphetamine-type stimulant use causing impairment or distress.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Substance-related and addictive",
+    "name": "Tobacco use disorder",
+    "code": "F17.2x",
+    "summary": "A problematic pattern of tobacco use with craving, tolerance or withdrawal.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Substance-related and addictive",
+    "name": "Sedative, hypnotic or anxiolytic use disorder",
+    "code": "F13.x",
+    "summary": "A problematic pattern of use of these medications causing impairment or distress.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Substance-related and addictive",
+    "name": "Hallucinogen use disorder",
+    "code": "F16.x",
+    "summary": "A problematic pattern of hallucinogen use causing impairment or distress.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Substance-related and addictive",
+    "name": "Inhalant use disorder",
+    "code": "F18.x",
+    "summary": "A problematic pattern of inhaling volatile substances causing impairment or distress.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurocognitive",
+    "name": "Mild neurocognitive disorder",
+    "code": "F06.7x",
+    "summary": "A modest decline in thinking skills that doesn’t yet impair independence.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurocognitive",
+    "name": "Major NCD due to Alzheimer’s disease",
+    "code": "G30.9 + F02.8x",
+    "summary": "Gradual decline in memory and other thinking skills attributed to Alzheimer’s disease.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurocognitive",
+    "name": "Major NCD with Lewy bodies",
+    "code": "G31.83 + F02.8x",
+    "summary": "Cognitive decline with fluctuating alertness, visual hallucinations and parkinsonian features.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurocognitive",
+    "name": "Major frontotemporal NCD",
+    "code": "G31.09 + F02.8x",
+    "summary": "Decline led by changes in behavior, personality or language.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Neurocognitive",
+    "name": "Major vascular NCD",
+    "code": "F01.5x",
+    "summary": "Cognitive decline linked to cerebrovascular disease.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Personality",
+    "name": "Personality change due to another medical condition",
+    "code": "F07.0",
+    "summary": "A lasting change in personality caused by a medical condition.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Paraphilic",
+    "name": "Voyeuristic disorder",
+    "code": "F65.3",
+    "summary": "Recurrent arousal from secretly observing an unsuspecting person, acted on or causing distress.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Paraphilic",
+    "name": "Exhibitionistic disorder",
+    "code": "F65.2",
+    "summary": "Recurrent arousal from exposing oneself to an unsuspecting person, acted on or causing distress.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Paraphilic",
+    "name": "Frotteuristic disorder",
+    "code": "F65.81",
+    "summary": "Recurrent arousal from touching or rubbing against a non-consenting person, acted on or causing distress.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Paraphilic",
+    "name": "Sexual masochism disorder",
+    "code": "F65.51",
+    "summary": "Recurrent arousal from being humiliated, bound or made to suffer, causing distress or impairment.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Paraphilic",
+    "name": "Sexual sadism disorder",
+    "code": "F65.52",
+    "summary": "Recurrent arousal from another’s suffering, acted on with a non-consenting person or causing distress.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Paraphilic",
+    "name": "Pedophilic disorder",
+    "code": "F65.4",
+    "summary": "Recurrent arousal toward prepubertal children, acted on or causing marked distress. Needs specialist assessment.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Paraphilic",
+    "name": "Fetishistic disorder",
+    "code": "F65.0",
+    "summary": "Recurrent arousal from nonliving objects or specific body parts, causing distress or impairment.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Paraphilic",
+    "name": "Transvestic disorder",
+    "code": "F65.1",
+    "summary": "Recurrent arousal from cross-dressing, causing distress or impairment.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Other mental disorders",
+    "name": "Other specified mental disorder",
+    "code": "F99",
+    "summary": "Distressing symptoms that fit no specific category, with the clinician naming the reason.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Other mental disorders",
+    "name": "Unspecified mental disorder",
+    "code": "F99",
+    "summary": "Distressing symptoms where there isn’t enough information to be more specific.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Medication-induced movement",
+    "name": "Medication-induced acute dystonia",
+    "code": "G24.02",
+    "summary": "Sudden sustained muscle contractions or abnormal postures after taking a medication.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Medication-induced movement",
+    "name": "Neuroleptic-induced parkinsonism",
+    "code": "G21.11",
+    "summary": "Tremor, rigidity or slowed movement after antipsychotic or similar treatment.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Medication-induced movement",
+    "name": "Medication-induced acute akathisia",
+    "code": "G25.71",
+    "summary": "Inner restlessness and an urge to move after taking a medication.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Medication-induced movement",
+    "name": "Tardive dyskinesia",
+    "code": "G24.01",
+    "summary": "Involuntary movements, often of the face and tongue, after prolonged exposure to certain medications.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Medication-induced movement",
+    "name": "Neuroleptic malignant syndrome",
+    "code": "G21.0",
+    "summary": "A rare, serious reaction to antipsychotics with fever, rigidity and altered awareness. A medical emergency.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Other conditions that may be a focus of clinical attention",
+    "name": "Relationship distress with spouse or intimate partner",
+    "code": "Z63.0",
+    "summary": "Problems in a relationship that are a focus of clinical attention.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Other conditions that may be a focus of clinical attention",
+    "name": "Uncomplicated bereavement",
+    "code": "Z63.4",
+    "summary": "Normal grief after a death that is a focus of clinical attention.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Other conditions that may be a focus of clinical attention",
+    "name": "Phase of life problem",
+    "code": "Z60.0",
+    "summary": "Difficulty adjusting to a life transition.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Other conditions that may be a focus of clinical attention",
+    "name": "Borderline intellectual functioning",
+    "code": "R41.83",
+    "summary": "Intellectual functioning just above the range for intellectual disability.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  },
+  {
+    "room": "Other conditions that may be a focus of clinical attention",
+    "name": "Malingering",
+    "code": "Z76.5",
+    "summary": "Intentionally faking or exaggerating symptoms for an external reward.",
+    "details": {
+      "Criteria": "",
+      "Specifiers": "",
+      "Severity": "",
+      "Differential diagnosis": "",
+      "Prevalence": "",
+      "Course and development": "",
+      "Comorbidity": "",
+      "Notes": ""
+    }
+  }
+]
